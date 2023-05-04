@@ -5,7 +5,7 @@
   }
   
   body {
-    background-image: url("path/to/image.jpg"); /* replace with the actual path to your image */
+    background-image: url("/Users/akshaykm/Downloads/hi.jpg"); /* replace with the actual path to your image */
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -69,5 +69,7 @@
   
   main {
     font-size: 24px;
+    /*background-color: #fff;*/
+    color: #fff;
   }
   
